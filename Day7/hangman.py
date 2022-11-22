@@ -1,7 +1,7 @@
 import random
 import words
 import hangman_art
-from replit import clear
+
 #Step 1 
 
 word_of_the_game= random.choice(words.word_list).lower()
